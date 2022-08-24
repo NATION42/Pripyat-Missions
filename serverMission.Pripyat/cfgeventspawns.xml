@@ -17,7 +17,7 @@
 		<pos x="19132.69" z="18350.32"/>
 	</event>
 	<event name="StaticDrone">
-		<zone smin="1" smax="3" dmin="3" dmax="5" r="45"/>
+		<zone smin="1" smax="5" dmin="3" dmax="5" r="45"/>
 		<pos x="10160.5" z="2873.64" a="0"/>
 		<pos x="10796.5" z="3385.2" a="0"/>
 		<pos x="11968.4" z="4504.45" a="0"/>

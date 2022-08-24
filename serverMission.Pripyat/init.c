@@ -5,7 +5,7 @@ void main()
 	if ( ce )
 		ce.InitOffline();
 	
-	//GetCEApi().ExportProxyData("0 0 0", 100000);
+	//GetCEApi().ExportProxyData("10000 0 10000", 28285);
 	//GetCEApi().ExportClusterData();
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------

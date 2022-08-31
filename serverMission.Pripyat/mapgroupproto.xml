@@ -16,27 +16,20 @@
 -->
 	</defaults>
 	<!--			Chernobyl Zone Buildings			-->
-	<group name="Land_czb_build_5f_1" lootmax="4">
-		<usage name="Industrial"/>
-		<usage name="Farm"/>
-		<usage name="Military"/>
-		<container name="lootFloor" lootmax="4">
-			<point pos="2134.693115 132.412888 398.263916" range="1" height="1"/>
-			<point pos="-3.898659 -6.580771 -9.056807" range="1" height="1"/>
-			<point pos="-4.264212 -6.580771 -6.731236" range="1" height="1"/>
-			<point pos="-0.717548 -6.580776 3.124880" range="1" height="1"/>
-			<point pos="-0.523652 -6.580771 7.337036" range="1" height="1"/>
-			<point pos="1.591332 -6.580776 1.814849" range="1" height="1"/>
-			<point pos="3.273008 -6.580771 5.082702" range="1" height="1"/>
-			<point pos="2.362659 -6.580771 7.696495" range="1" height="1"/>
-			<point pos="-0.385989 -3.580777 2.816618" range="1" height="1"/>
-			<point pos="1.577940 -3.580776 2.206007" range="1" height="1"/>
-			<point pos="-0.506013 -0.580773 5.057393" range="1" height="1"/>
-			<point pos="1.531768 -0.580776 2.430622" range="1" height="1"/>
-			<point pos="-0.258790 2.419225 4.381254" range="1" height="1"/>
-			<point pos="1.985587 2.419226 2.412248" range="1" height="1"/>
-			<point pos="-0.504868 5.419225 4.120062" range="1" height="1"/>
-			<point pos="1.803436 5.419225 2.215132" range="1" height="1"/>
+	<group name="Land_czb_build_5f_1" lootmax="8">
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<container name="lootFloor" lootmax="8">
+			<point pos="-6.114563 2.202061 1.154296" range="0.500000" height="1.500000"/>
+			<point pos="-5.623596 -7.567813 -1.416993" range="0.500000" height="1.500000"/>
+			<point pos="-1.683838 -6.567591 7.602539" range="0.500000" height="1.500000"/>
+			<point pos="-2.023071 -0.584461 -6.348633" range="0.500000" height="1.500000"/>
+			<point pos="-6.203674 3.830864 -0.810547" range="0.500000" height="1.500000"/>
+			<point pos="-1.523681 5.583664 -0.610352" range="0.500000" height="1.500000"/>
+			<point pos="1.804383 5.535212 -0.709961" range="0.500000" height="1.500000"/>
+			<point pos="2.051270 9.171902 0.373046" range="0.500000" height="1.500000"/>
+			<point pos="-3.012451 9.214503 -7.491211" range="0.500000" height="1.500000"/>
+			<point pos="1.505066 9.155106 6.968757" range="0.500000" height="1.500000"/>
 		</container>
 	</group>
 	<group name="Land_czb_house_der_1" lootmax="4">
@@ -53,113 +46,129 @@
 		</container>
 	</group>
 	<group name="Land_czb_build_9f_121_60_25_a" lootmax="10">
-		<usage name="Office"/>
 		<usage name="Town"/>
 		<usage name="Village"/>
 		<container name="lootFloor" lootmax="10">
-			<point pos="3.712095 -16.524670 9.268801" range="1" height="1"/>
-			<point pos="2.587227 -16.521137 2.824542" range="1" height="1"/>
-			<point pos="6.388036 -16.529287 1.040896" range="1" height="1"/>
-			<point pos="5.141335 -13.727612 6.734568" range="1" height="1"/>
-			<point pos="-0.845437 -13.706675 2.254127" range="1" height="1"/>
-			<point pos="6.349695 -10.918569 0.773254" range="1" height="1"/>
-			<point pos="2.623907 -10.913950 5.726173" range="1" height="1"/>
-			<point pos="4.497293 -10.929900 9.669637" range="1" height="1"/>
-			<point pos="-1.198764 -10.929901 3.728057" range="1" height="1"/>
-			<point pos="-6.532578 -12.329900 2.132071" range="1" height="1"/>
-			<point pos="-6.150861 -9.529900 1.989859" range="1" height="1"/>
-			<point pos="-0.481806 -8.129899 4.734583" range="1" height="1"/>
-			<point pos="-0.708745 -8.129898 -0.994910" range="1" height="1"/>
-			<point pos="8.209598 -8.129899 -3.851278" range="1" height="1"/>
-			<point pos="5.317861 -8.129899 -1.982424" range="1" height="1"/>
-			<point pos="-0.840373 -8.129900 -7.584344" range="1" height="1"/>
-			<point pos="-0.837802 -8.129899 -0.104897" range="1" height="1"/>
-			<point pos="4.557610 -5.329899 6.090179" range="1" height="1"/>
-			<point pos="2.648729 -5.329899 9.140933" range="1" height="1"/>
-			<point pos="-0.593716 -5.329899 2.155425" range="1" height="1"/>
-			<point pos="6.286294 -5.329899 1.552425" range="1" height="1"/>
-			<point pos="5.061411 -5.329899 3.634469" range="1" height="1"/>
-			<point pos="-2.704598 -5.329899 -6.894103" range="1" height="1"/>
-			<point pos="-5.802086 -5.329899 -1.353398" range="1" height="1"/>
-			<point pos="-6.230808 -3.929899 2.221828" range="1" height="1"/>
-			<point pos="0.615800 -2.529900 2.075243" range="1" height="1"/>
-			<point pos="7.442024 -2.529900 -4.134935" range="1" height="1"/>
-			<point pos="0.241772 -2.529900 -6.973527" range="1" height="1"/>
-			<point pos="-4.695468 -2.529900 4.195047" range="1" height="1"/>
-			<point pos="-2.307054 0.270100 1.339120" range="1" height="1"/>
-			<point pos="-2.137098 0.270100 7.433990" range="1" height="1"/>
-			<point pos="0.384343 0.270100 7.139303" range="1" height="1"/>
-			<point pos="4.919127 0.270100 1.612267" range="1" height="1"/>
-			<point pos="3.871487 0.270100 9.286416" range="1" height="1"/>
-			<point pos="-1.724562 3.070099 1.726330" range="1" height="1"/>
-			<point pos="-1.028275 5.870098 -0.397958" range="1" height="1"/>
-			<point pos="-0.442700 5.870098 5.651436" range="1" height="1"/>
-			<point pos="-5.927302 7.270096 2.209923" range="1" height="1"/>
-			<point pos="3.703552 8.670097 2.944109" range="1" height="1"/>
-			<point pos="-0.093462 8.670097 -1.580107" range="1" height="1"/>
-			<point pos="2.881332 8.670097 -4.997196" range="1" height="1"/>
-			<point pos="0.493348 10.219791 1.273519" range="1" height="1"/>
-			<point pos="0.493348 10.219791 1.273519" range="1" height="1"/>
-			<point pos="-1.060333 8.670097 2.225583" range="1" height="1"/>
-			<point pos="-1.912996 11.170097 5.769104" range="1" height="1"/>
-			<point pos="-6.219032 11.170097 1.849516" range="1" height="1"/>
-			<point pos="-4.849341 11.170097 -4.253513" range="1" height="1"/>
-			<point pos="5.663400 11.170097 -5.680484" range="1" height="1"/>
-			<point pos="5.856405 11.170097 -1.075407" range="1" height="1"/>
-			<point pos="5.296262 11.170097 5.715745" range="1" height="1"/>
+			<point pos="-8.149231 -15.653419 -1.063476" range="0.500000" height="1.500000"/>
+			<point pos="-0.735230 -16.579254 -0.748047" range="0.500000" height="1.500000"/>
+			<point pos="-0.478577 -13.786059 1.685547" range="0.500000" height="1.500000"/>
+			<point pos="0.074768 -13.705781 7.872070" range="0.500000" height="1.500000"/>
+			<point pos="-6.731507 -13.763364 3.784180" range="0.500000" height="1.500000"/>
+			<point pos="-7.320740 -12.367033 2.343750" range="0.500000" height="1.500000"/>
+			<point pos="-2.533387 -13.779046 -5.711914" range="0.500000" height="1.500000"/>
+			<point pos="-3.255127 -13.776294 -10.003906" range="0.500000" height="1.500000"/>
+			<point pos="-2.432923 -10.973047 2.064453" range="0.500000" height="1.500000"/>
+			<point pos="1.368713 -10.980736 -3.099609" range="0.500000" height="1.500000"/>
+			<point pos="-2.083619 -10.930426 4.022461" range="0.500000" height="1.500000"/>
+			<point pos="2.912292 -10.951534 3.139649" range="0.500000" height="1.500000"/>
+			<point pos="-6.206727 11.146938 2.907227" range="0.500000" height="1.500000"/>
+			<point pos="-1.732850 -2.572790 2.229492" range="0.500000" height="1.500000"/>
+			<point pos="-0.586060 -2.572727 -1.758789" range="0.500000" height="1.500000"/>
+			<point pos="-4.832947 11.126640 7.236328" range="0.500000" height="1.500000"/>
+			<point pos="-4.831055 11.122192 -7.537109" range="0.500000" height="1.500000"/>
 		</container>
 	</group>
-	<group name="Land_czb_build_sad_1" lootmax="4">
+	<group name="Land_czb_build_9f_121_60_25_b" lootmax="13">
+		<usage name="Office"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+		<container name="lootFloor" lootmax="13">
+			<point pos="-7.437988 -17.370002 -1.112305" range="0.500000" height="1.500000"/>
+			<point pos="-3.465271 -16.574760 -1.299805" range="0.500000" height="1.500000"/>
+			<point pos="1.277771 -16.580816 2.190430" range="0.500000" height="1.500000"/>
+			<point pos="-3.114563 -11.823168 3.191406" range="0.500000" height="1.500000"/>
+			<point pos="-0.093201 -13.775730 2.033203" range="0.500000" height="1.500000"/>
+			<point pos="-0.122315 -13.776427 5.262695" range="0.500000" height="1.500000"/>
+			<point pos="-0.084290 -13.770358 -1.471680" range="0.500000" height="1.500000"/>
+			<point pos="-1.418579 -10.973701 1.434570" range="0.500000" height="1.500000"/>
+			<point pos="-3.268860 -10.973564 4.066406" range="0.500000" height="1.500000"/>
+			<point pos="-0.126953 -10.973697 -1.728516" range="0.500000" height="1.500000"/>
+			<point pos="-6.577759 -9.576212 1.918945" range="0.500000" height="1.500000"/>
+			<point pos="-1.869141 -8.176511 1.067383" range="0.500000" height="1.500000"/>
+			<point pos="-0.947205 -7.926502 3.918945" range="0.500000" height="1.500000"/>
+			<point pos="-2.727844 -7.934391 -2.578126" range="0.500000" height="1.500000"/>
+			<point pos="-3.015259 3.047373 2.189453" range="0.500000" height="1.500000"/>
+			<point pos="-0.577271 -5.362791 1.783203" range="0.500000" height="1.500000"/>
+			<point pos="-0.715332 -5.377325 -0.969727" range="0.500000" height="1.500000"/>
+			<point pos="-0.830689 3.041556 0.859376" range="0.500000" height="1.500000"/>
+			<point pos="-0.268250 3.012366 -1.806641" range="0.500000" height="1.500000"/>
+			<point pos="-0.415283 5.827599 1.492187" range="0.500000" height="1.500000"/>
+			<point pos="0.338257 5.862618 -1.921876" range="0.500000" height="1.500000"/>
+			<point pos="-1.390259 5.828049 3.862305" range="0.500000" height="1.500000"/>
+			<point pos="1.389038 5.823826 -3.634766" range="0.500000" height="1.500000"/>
+			<point pos="-5.337158 11.128846 -2.392578" range="0.500000" height="1.500000"/>
+			<point pos="4.300232 11.121414 8.911133" range="0.500000" height="1.500000"/>
+			<point pos="-7.512940 11.198036 5.777344" range="0.500000" height="1.500000"/>
+		</container>
+	</group>
+	<group name="Land_czb_build_sad_1" lootmax="15">
 		<usage name="Office"/>
 		<usage name="Town"/>
 		<usage name="School"/>
-		<container name="lootFloor" lootmax="4">
-			<point pos="11.696499 1.363323 10.911159" range="1" height="1"/>
-			<point pos="8.601580 1.363322 13.033610" range="1" height="1"/>
-			<point pos="15.075981 1.363322 12.272616" range="1" height="1"/>
-			<point pos="14.003359 1.363323 6.215139" range="1" height="1"/>
-			<point pos="15.347881 1.363322 4.612048" range="1" height="1"/>
-			<point pos="7.383598 1.363323 7.292064" range="1" height="1"/>
-			<point pos="10.502820 1.363323 5.810324" range="1" height="1"/>
-			<point pos="6.988927 1.363322 -0.753033" range="1" height="1"/>
-			<point pos="10.032961 1.363323 2.256393" range="1" height="1"/>
-			<point pos="7.038886 1.363323 -6.448831" range="1" height="1"/>
-			<point pos="9.306810 1.363323 -4.440372" range="1" height="1"/>
-			<point pos="10.829096 1.363323 -10.341429" range="1" height="1"/>
-			<point pos="13.463512 1.363323 -12.511045" range="1" height="1"/>
-			<point pos="14.215103 1.363323 -6.316291" range="1" height="1"/>
-			<point pos="15.537028 1.363323 -5.829908" range="1" height="1"/>
-			<point pos="11.267872 -0.486677 -1.032783" range="1" height="1"/>
-			<point pos="7.174611 -2.436678 -2.063049" range="1" height="1"/>
-			<point pos="1.406077 -2.436678 -0.970429" range="1" height="1"/>
-			<point pos="3.793181 -2.436678 -0.879931" range="1" height="1"/>
-			<point pos="-10.215390 -2.436678 -1.145137" range="1" height="1"/>
-			<point pos="-9.506511 -2.436678 0.747042" range="1" height="1"/>
-			<point pos="3.741943 -2.436678 1.171481" range="1" height="1"/>
-			<point pos="-9.505743 -2.436678 5.899812" range="1" height="1"/>
-			<point pos="-6.829386 -2.436678 7.325327" range="1" height="1"/>
-			<point pos="-7.778421 -2.436678 4.292297" range="1" height="1"/>
-			<point pos="-7.930887 -2.436678 12.909861" range="1" height="1"/>
-			<point pos="-12.777484 -2.436677 10.188272" range="1" height="1"/>
-			<point pos="-13.687281 -2.436678 12.829037" range="1" height="1"/>
-			<point pos="-14.461109 -2.436677 5.273321" range="1" height="1"/>
-			<point pos="-15.276402 -2.436678 8.323898" range="1" height="1"/>
-			<point pos="-7.720417 5.163323 5.970035" range="1" height="1"/>
-			<point pos="-13.859296 5.163323 12.445158" range="1" height="1"/>
-			<point pos="-3.775743 1.363322 -0.493226" range="1" height="1"/>
-			<point pos="4.018199 1.363322 0.813695" range="1" height="1"/>
-			<point pos="9.251437 -2.436677 -6.803612" range="1" height="1"/>
-			<point pos="8.427019 5.163323 -1.744108" range="1" height="1"/>
-			<point pos="8.822883 5.163323 10.266125" range="1" height="1"/>
-			<point pos="9.212305 5.163323 -12.356097" range="1" height="1"/>
-			<point pos="-8.562046 5.163322 -8.926666" range="1" height="1"/>
-			<point pos="-8.555898 -2.436677 -13.862392" range="1" height="1"/>
-			<point pos="-9.762419 -2.436677 -4.822980" range="1" height="1"/>
-			<point pos="-2.293289 -2.436678 0.320275" range="1" height="1"/>
-			<point pos="-11.034996 5.163322 -4.915674" range="1" height="1"/>
-			<point pos="-9.033022 1.363322 6.354884" range="1" height="1"/>
-			<point pos="-10.750052 1.363323 12.181212" range="1" height="1"/>
-			<point pos="-12.828376 1.363323 10.136963" range="1" height="1"/>
+		<container name="lootFloor" lootmax="15">
+			<point pos="-7.038331 -2.470498 -2.127930" range="0.500000" height="1.500000"/>
+			<point pos="-3.485779 -2.469734 1.000977" range="0.500000" height="1.500000"/>
+			<point pos="1.265380 -2.479675 -1.146484" range="0.500000" height="1.500000"/>
+			<point pos="9.838501 -2.479652 2.187500" range="0.500000" height="1.500000"/>
+			<point pos="7.564025 -2.479847 -0.911133" range="0.500000" height="1.500000"/>
+			<point pos="-10.764039 -2.479695 0.726562" range="0.500000" height="1.500000"/>
+			<point pos="-9.555298 -2.462442 -6.838867" range="0.500000" height="1.500000"/>
+			<point pos="-13.722168 -2.464959 -12.487305" range="0.500000" height="1.500000"/>
+			<point pos="-8.019715 -2.464919 -12.949219" range="0.500000" height="1.500000"/>
+			<point pos="-9.059266 -2.464960 -9.911133" range="0.500000" height="1.500000"/>
+			<point pos="-6.623902 -2.464959 -5.293945" range="0.500000" height="1.500000"/>
+			<point pos="-10.373841 -2.489072 7.391602" range="0.500000" height="1.500000"/>
+			<point pos="-7.031434 -2.496783 4.699219" range="0.500000" height="1.500000"/>
+			<point pos="-13.256287 -2.484487 13.496094" range="0.500000" height="1.500000"/>
+			<point pos="-9.047242 -2.482121 11.716797" range="0.500000" height="1.500000"/>
+			<point pos="-11.722535 -2.477826 12.782227" range="0.500000" height="1.500000"/>
+			<point pos="-14.687561 -2.481263 5.385742" range="0.500000" height="1.500000"/>
+			<point pos="-14.435181 -2.487404 7.479492" range="0.500000" height="1.500000"/>
+			<point pos="-6.234314 1.333526 -10.990234" range="0.500000" height="1.500000"/>
+			<point pos="-11.629639 1.333524 -12.378906" range="0.500000" height="1.500000"/>
+			<point pos="-15.374390 1.333513 -12.313477" range="0.500000" height="1.500000"/>
+			<point pos="-14.801636 1.333518 -4.133789" range="0.500000" height="1.500000"/>
+			<point pos="-14.388550 1.333522 -8.038086" range="0.500000" height="1.500000"/>
+			<point pos="-10.532654 1.333515 -7.721680" range="0.500000" height="1.500000"/>
+			<point pos="-7.064393 1.333517 -7.761719" range="0.500000" height="1.500000"/>
+			<point pos="-8.297791 1.333526 -2.127930" range="0.500000" height="1.500000"/>
+			<point pos="-6.429505 1.324608 2.055664" range="0.500000" height="1.500000"/>
+			<point pos="-7.177186 1.274954 5.194336" range="0.500000" height="1.500000"/>
+			<point pos="-8.990052 1.284554 5.690430" range="0.500000" height="1.500000"/>
+			<point pos="-9.388367 1.315168 13.033203" range="0.500000" height="1.500000"/>
+			<point pos="-7.048035 1.415394 10.801758" range="0.500000" height="1.500000"/>
+			<point pos="-15.215882 1.380517 11.769531" range="0.500000" height="1.500000"/>
+			<point pos="-15.624756 1.498039 7.623047" range="0.500000" height="1.500000"/>
+			<point pos="-12.931824 1.541744 5.861328" range="0.500000" height="1.500000"/>
+			<point pos="10.748230 1.584392 10.915039" range="0.500000" height="1.500000"/>
+			<point pos="15.024902 1.584407 13.209961" range="0.500000" height="1.500000"/>
+			<point pos="8.018066 1.574674 12.637695" range="0.500000" height="1.500000"/>
+			<point pos="8.818664 1.584377 5.542969" range="0.500000" height="1.500000"/>
+			<point pos="6.730407 1.556488 8.109376" range="0.500000" height="1.500000"/>
+			<point pos="12.459899 -2.485134 12.389648" range="0.500000" height="1.500000"/>
+			<point pos="8.333862 -2.479634 10.899414" range="0.500000" height="1.500000"/>
+			<point pos="9.682617 -2.479678 5.148437" range="0.500000" height="1.500000"/>
+			<point pos="6.458374 -2.484782 6.346680" range="0.500000" height="1.500000"/>
+			<point pos="8.882934 -2.479629 -4.937500" range="0.500000" height="1.500000"/>
+			<point pos="6.991455 -2.479651 -7.445313" range="0.500000" height="1.500000"/>
+			<point pos="13.321044 -2.479650 -12.712891" range="0.500000" height="1.500000"/>
+			<point pos="9.443542 -2.479657 -12.020508" range="0.500000" height="1.500000"/>
+			<point pos="15.299987 -2.479651 -5.406250" range="0.500000" height="1.500000"/>
+			<point pos="7.520385 1.584381 1.319336" range="0.500000" height="1.500000"/>
+			<point pos="9.742492 1.323264 -5.010742" range="0.500000" height="1.500000"/>
+			<point pos="7.102661 1.323264 -5.493164" range="0.500000" height="1.500000"/>
+			<point pos="15.236206 1.323270 -11.930664" range="0.500000" height="1.500000"/>
+			<point pos="8.197326 1.323265 -13.090820" range="0.500000" height="1.500000"/>
+			<point pos="14.613342 1.323263 -5.262695" range="0.500000" height="1.500000"/>
+			<point pos="12.984130 1.323312 -8.158203" range="0.500000" height="1.500000"/>
+			<point pos="3.949646 1.323265 -2.791016" range="0.500000" height="1.500000"/>
+			<point pos="-2.296082 1.323270 -0.744141" range="0.500000" height="1.500000"/>
+			<point pos="-7.568055 5.143057 4.488281" range="0.500000" height="1.500000"/>
+			<point pos="-8.975464 5.177604 -8.409180" range="0.500000" height="1.500000"/>
+			<point pos="-14.820252 5.177606 -11.071289" range="0.500000" height="1.500000"/>
+			<point pos="8.160400 5.177631 -10.836914" range="0.500000" height="1.500000"/>
+			<point pos="7.844604 5.177593 -1.472656" range="0.500000" height="1.500000"/>
+			<point pos="13.859314 5.155595 10.517578" range="0.500000" height="1.500000"/>
 		</container>
 	</group>
 	<group name="land_chz_spyaircraft" lootmax="10">

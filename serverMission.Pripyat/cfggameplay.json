@@ -1,5 +1,5 @@
 {
-	"version": 115,
+	"version": 119,
 	"GeneralData":
 	{
 		"disableBaseDamage": 0,
@@ -17,12 +17,34 @@
 			"staminaMax": 100.0,
 			"staminaKgToStaminaPercentPenalty": 1.75,
 			"staminaMinCap": 5.0
+		},
+		"ShockHandlingData":
+		{
+			"shockRefillSpeedConscious": 5.0,
+			"shockRefillSpeedUnconscious": 1.0,
+			"allowRefillSpeedModifier": true
+		},
+		"MovementData":
+		{
+			"timeToStrafeJog": 0.1,
+			"rotationSpeedJog": 0.3,
+			"timeToSprint": 0.45,
+			"timeToStrafeSprint": 0.3,
+			"rotationSpeedSprint": 0.15
+		},
+		"DrowningData":
+		{
+			"staminaDepletionSpeed": 10.0,
+			"healthDepletionSpeed": 10.0,
+			"shockDepletionSpeed": 10.0
 		}
 	},
 	"WorldsData":
 	{
 		"lightingConfig": 1,
-		"objectSpawnersArr": []
+		"objectSpawnersArr": [],
+		"environmentMinTemps": [-7, -7, -1, 5, 10, 14, 16, 15, 10, 5, 1, -4],
+		"environmentMaxTemps": [-2, 0, 5, 14, 20, 25, 26, 26, 20, 12, 6, 1]
 	},
 	"BaseBuildingData":
 	{
@@ -48,6 +70,7 @@
 	},
 	"UIData":
 	{
+		"use3DMap": 0,
 		"HitIndicationData":
 		{
 			"hitDirectionOverrideEnabled": 0,
@@ -59,5 +82,12 @@
 			"hitDirectionScatter": 10.0,
 			"hitIndicationPostProcessEnabled": 1
 		}
+	},
+	"MapData":
+	{
+		"ignoreMapOwnership": 0,
+		"ignoreNavItemsOwnership": 0,
+		"displayPlayerPosition": 0,
+		"displayNavInfo": 1
 	}
 }

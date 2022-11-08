@@ -32,7 +32,7 @@ void main()
 			}
 		}
 	}
-}
+};
 
 class CustomMission: MissionServer
 {
@@ -99,4 +99,4 @@ class CustomMission: MissionServer
 Mission CreateCustomMission(string path)
 {
 	return new CustomMission();
-}
+};

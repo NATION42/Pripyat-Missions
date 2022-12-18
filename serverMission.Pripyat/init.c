@@ -6,7 +6,7 @@ void main()
 		ce.InitOffline();
 
 	// comment/remove following 2 lines when not exporting (can cause further issues if you do this each time you start a mission!)
-	//GetCEApi().ExportProxyData("10000 0 10000", 14143);	// dont use it at Pripyat atm // standard map groups (buildings) export, terrain center and radius needs to be specified
+	//GetCEApi().ExportProxyData("10000 0 10000", 15000);	// dont use it at Pripyat atm // standard map groups (buildings) export, terrain center and radius needs to be specified
 	//GetCEApi().ExportClusterData();						// cluster-type map groups export (fruit trees etc.)
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------

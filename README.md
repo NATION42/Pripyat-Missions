@@ -1,5 +1,7 @@
 # Pripyat-Missions
-unofficial mission files for Pripyat
+unofficial mission files for Pripyat (BETA)
+
+the original Pripyat mod (2929038098) will ultimately be deprecated and/or removed from the workshop and the Beta version will become the main mod.
 
 Thank you Eri for this wonderful map
 

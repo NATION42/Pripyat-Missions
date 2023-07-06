@@ -13857,7 +13857,7 @@
 		<category name="food"/>
 	</type>
 	<type name="Pen_Black">
-		<nominal>0</nominal>
+		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -13873,7 +13873,7 @@
 		<usage name="School"/>
 	</type>
 	<type name="Pen_Blue">
-		<nominal>0</nominal>
+		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -13889,7 +13889,7 @@
 		<usage name="School"/>
 	</type>
 	<type name="Pen_Green">
-		<nominal>0</nominal>
+		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
@@ -13905,7 +13905,7 @@
 		<usage name="School"/>
 	</type>
 	<type name="Pen_Red">
-		<nominal>0</nominal>
+		<nominal>5</nominal>
 		<lifetime>28800</lifetime>
 		<restock>0</restock>
 		<min>0</min>
